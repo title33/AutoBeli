@@ -86,7 +86,6 @@ function thisCode()
         end
     end)
 
-
     
     task.spawn(function()
         while true do
